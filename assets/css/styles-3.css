@@ -299,6 +299,12 @@ p {
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
 
+@media print{
+  #pageBreak {
+	page-break-before: always;
+	}
+}
+
 /* 
 used for profile image
 */
