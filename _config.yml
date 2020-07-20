@@ -14,12 +14,12 @@ style: styles-3
 
 #Profile information
 name: Francois D'Agostini
-tagline: Software Technical lead and product manager 
+tagline: Enterprise Architect, Product Manager and Software Craftsman 
 pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: francois.dagostini@gmail.com 
-phone: +33 6 18 65 25 08
+phone: +33 6 64 91 23 63
 website: www.dagostini.fr #do not add http://
 linkedin: fdagostini
 github: fdagosti
