@@ -14,7 +14,7 @@ style: styles-3
 
 #Profile information
 name: Francois D'Agostini
-tagline: Enterprise Architect, Product Manager and Software Craftsman 
+tagline: Enterprise Architect, Engineering manager and Product Manager 
 pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
